@@ -1,4 +1,4 @@
-This is the Swarm app backend REST API.
+This is the Swarm app backend REST API, a Spring Web application.
 
 Requirements:
 
