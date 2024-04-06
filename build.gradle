@@ -17,8 +17,12 @@ configurations {
 	}
 }
 
+pluginManagement {
 repositories {
+	gradlePluginPortal()
 	mavenCentral()
+}
+
 }
 
 dependencies {
